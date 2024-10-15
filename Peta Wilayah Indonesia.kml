@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Peta Wilayah Indonesia</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>sumatera.csv</name>
+      <Placemark>
+        <name>Provinsi Aceh</name>
+        <description><![CDATA[nid: 1<br>parent_nid: 0<br>serial: 11<br>type: 1<br>latitude: 4.695135<br>longitude: 96.7493993<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>11.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>4.695135</value>
+          </Data>
+          <Data name="longitude">
+            <value>96.7493993</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            96.7493993,4.695135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Sumatera Utara</name>
+        <description><![CDATA[nid: 2<br>parent_nid: 0<br>serial: 12<br>type: 1<br>latitude: 2.1153547<br>longitude: 99.5450974<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>2.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>12.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>2.1153547</value>
+          </Data>
+          <Data name="longitude">
+            <value>99.5450974</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            99.5450974,2.1153547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Sumatera Barat</name>
+        <description><![CDATA[nid: 3<br>parent_nid: 0<br>serial: 13<br>type: 1<br>latitude: -0.7399397<br>longitude: 100.8000051<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>3.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>13.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-0.7399397</value>
+          </Data>
+          <Data name="longitude">
+            <value>100.8000051</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.8000051,-0.7399397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Riau</name>
+        <description><![CDATA[nid: 4<br>parent_nid: 0<br>serial: 14<br>type: 1<br>latitude: 0.2933469<br>longitude: 101.7068294<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>4.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>14.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.2933469</value>
+          </Data>
+          <Data name="longitude">
+            <value>101.7068294</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            101.7068294,0.2933469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Jambi</name>
+        <description><![CDATA[nid: 5<br>parent_nid: 0<br>serial: 15<br>type: 1<br>latitude: -1.4851831<br>longitude: 102.4380581<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>5.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>15.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-1.4851831</value>
+          </Data>
+          <Data name="longitude">
+            <value>102.4380581</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            102.4380581,-1.4851831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Sumatera Selatan</name>
+        <description><![CDATA[nid: 6<br>parent_nid: 0<br>serial: 16<br>type: 1<br>latitude: -3.3194374<br>longitude: 103.914399<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>6.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>16.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.3194374</value>
+          </Data>
+          <Data name="longitude">
+            <value>103.914399</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.914399,-3.3194374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Bengkulu</name>
+        <description><![CDATA[nid: 7<br>parent_nid: 0<br>serial: 17<br>type: 1<br>latitude: -3.5778471<br>longitude: 102.3463875<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>7.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>17.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.5778471</value>
+          </Data>
+          <Data name="longitude">
+            <value>102.3463875</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            102.3463875,-3.5778471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Lampung</name>
+        <description><![CDATA[nid: 8<br>parent_nid: 0<br>serial: 18<br>type: 1<br>latitude: -4.5585849<br>longitude: 105.4068079<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>8.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>18.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-4.5585849</value>
+          </Data>
+          <Data name="longitude">
+            <value>105.4068079</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            105.4068079,-4.5585849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Kepulauan Bangka Belitung</name>
+        <description><![CDATA[nid: 9<br>parent_nid: 0<br>serial: 19<br>type: 1<br>latitude: -2.7410513<br>longitude: 106.4405872<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>9.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>19.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-2.7410513</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.4405872</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.4405872,-2.7410513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Kepulauan Riau</name>
+        <description><![CDATA[nid: 10<br>parent_nid: 0<br>serial: 21<br>type: 1<br>latitude: 3.9456514<br>longitude: 108.1428669<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>10.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>21.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>3.9456514</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.1428669</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.1428669,3.9456514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>jawa-bali.csv</name>
+      <Placemark>
+        <name>Provinsi DKI Jakarta</name>
+        <description><![CDATA[nid: 11<br>parent_nid: 0<br>serial: 31<br>type: 1<br>latitude: -6.211544<br>longitude: 106.845172<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>11.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>31.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.211544</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.845172</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.845172,-6.211544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Jawa Barat</name>
+        <description><![CDATA[nid: 12<br>parent_nid: 0<br>serial: 32<br>type: 1<br>latitude: -7.090911<br>longitude: 107.668887<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>32.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.090911</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.668887</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.668887,-7.090911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Jawa Tengah</name>
+        <description><![CDATA[nid: 13<br>parent_nid: 0<br>serial: 33<br>type: 1<br>latitude: -7.150975<br>longitude: 110.1402594<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>33.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.150975</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.1402594</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.1402594,-7.150975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi DI Yogyakarta</name>
+        <description><![CDATA[nid: 14<br>parent_nid: 0<br>serial: 34<br>type: 1<br>latitude: -7.8753849<br>longitude: 110.4262088<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>14.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>34.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.8753849</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.4262088</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.4262088,-7.8753849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Jawa Timur</name>
+        <description><![CDATA[nid: 15<br>parent_nid: 0<br>serial: 35<br>type: 1<br>latitude: -7.5360639<br>longitude: 112.2384017<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>35.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.5360639</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.2384017</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.2384017,-7.5360639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Banten</name>
+        <description><![CDATA[nid: 16<br>parent_nid: 0<br>serial: 36<br>type: 1<br>latitude: -6.4058172<br>longitude: 106.0640179<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>16.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>36.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.4058172</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.0640179</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.0640179,-6.4058172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Bali</name>
+        <description><![CDATA[nid: 17<br>parent_nid: 0<br>serial: 51<br>type: 1<br>latitude: -8.4095178<br>longitude: 115.188916<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>17.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>51.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.4095178</value>
+          </Data>
+          <Data name="longitude">
+            <value>115.188916</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.188916,-8.4095178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>kalimantan.csv</name>
+      <Placemark>
+        <name>Provinsi Kalimantan Barat</name>
+        <description><![CDATA[nid: 20<br>parent_nid: 0<br>serial: 61<br>type: 1<br>latitude: -0.2787808<br>longitude: 111.4752851<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>20.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>61.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-0.2787808</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.4752851</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.4752851,-0.2787808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Kalimantan Tengah</name>
+        <description><![CDATA[nid: 21<br>parent_nid: 0<br>serial: 62<br>type: 1<br>latitude: -1.6814878<br>longitude: 113.3823545<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>21.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>62.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-1.6814878</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.3823545</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.3823545,-1.6814878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Kalimantan Selatan</name>
+        <description><![CDATA[nid: 22<br>parent_nid: 0<br>serial: 63<br>type: 1<br>latitude: -3.0926415<br>longitude: 115.2837585<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>22.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>63.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.0926415</value>
+          </Data>
+          <Data name="longitude">
+            <value>115.2837585</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2837585,-3.0926415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Kalimantan Timur</name>
+        <description><![CDATA[nid: 23<br>parent_nid: 0<br>serial: 64<br>type: 1<br>latitude: 1.6406296<br>longitude: 116.419389<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>23.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>64.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>1.6406296</value>
+          </Data>
+          <Data name="longitude">
+            <value>116.419389</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            116.419389,1.6406296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>sulawesi.csv</name>
+      <Placemark>
+        <name>Provinsi Sulawesi Utara</name>
+        <description><![CDATA[nid: 24<br>parent_nid: 0<br>serial: 71<br>type: 1<br>latitude: 0.6246932<br>longitude: 123.9750018<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>24.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>71.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.6246932</value>
+          </Data>
+          <Data name="longitude">
+            <value>123.9750018</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            123.9750018,0.6246932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Sulawesi Tengah</name>
+        <description><![CDATA[nid: 25<br>parent_nid: 0<br>serial: 72<br>type: 1<br>latitude: -1.4300254<br>longitude: 121.4456179<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>25.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>72.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-1.4300254</value>
+          </Data>
+          <Data name="longitude">
+            <value>121.4456179</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.4456179,-1.4300254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Sulawesi Selatan</name>
+        <description><![CDATA[nid: 26<br>parent_nid: 0<br>serial: 73<br>type: 1<br>latitude: -3.6687994<br>longitude: 119.9740534<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>26.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>73.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.6687994</value>
+          </Data>
+          <Data name="longitude">
+            <value>119.9740534</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            119.9740534,-3.6687994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Sulawesi Tenggara</name>
+        <description><![CDATA[nid: 27<br>parent_nid: 0<br>serial: 74<br>type: 1<br>latitude: -4.14491<br>longitude: 122.174605<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>27.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>74.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-4.14491</value>
+          </Data>
+          <Data name="longitude">
+            <value>122.174605</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            122.174605,-4.14491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Gorontalo</name>
+        <description><![CDATA[nid: 28<br>parent_nid: 0<br>serial: 75<br>type: 1<br>latitude: 0.6999372<br>longitude: 122.4467238<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>28.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>75.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.6999372</value>
+          </Data>
+          <Data name="longitude">
+            <value>122.4467238</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            122.4467238,0.6999372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Sulawesi Barat</name>
+        <description><![CDATA[nid: 29<br>parent_nid: 0<br>serial: 76<br>type: 1<br>latitude: -2.8441371<br>longitude: 119.2320784<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>29.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>76.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-2.8441371</value>
+          </Data>
+          <Data name="longitude">
+            <value>119.2320784</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            119.2320784,-2.8441371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>indonesia_timur.csv</name>
+      <Placemark>
+        <name>Provinsi Nusa Tenggara Barat</name>
+        <description><![CDATA[nid: 18<br>parent_nid: 0<br>serial: 52<br>type: 1<br>latitude: -8.6529334<br>longitude: 117.3616476<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>18.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>52.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.6529334</value>
+          </Data>
+          <Data name="longitude">
+            <value>117.3616476</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            117.3616476,-8.6529334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Nusa Tenggara Timur</name>
+        <description><![CDATA[nid: 19<br>parent_nid: 0<br>serial: 53<br>type: 1<br>latitude: -8.6573819<br>longitude: 121.0793705<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>19.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>53.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.6573819</value>
+          </Data>
+          <Data name="longitude">
+            <value>121.0793705</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.0793705,-8.6573819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Maluku</name>
+        <description><![CDATA[nid: 30<br>parent_nid: 0<br>serial: 81<br>type: 1<br>latitude: -3.2384616<br>longitude: 130.1452734<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>30.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>81.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.2384616</value>
+          </Data>
+          <Data name="longitude">
+            <value>130.1452734</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            130.1452734,-3.2384616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Maluku Utara</name>
+        <description><![CDATA[nid: 31<br>parent_nid: 0<br>serial: 82<br>type: 1<br>latitude: 1.5709993<br>longitude: 127.8087693<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>31.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>82.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>1.5709993</value>
+          </Data>
+          <Data name="longitude">
+            <value>127.8087693</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.8087693,1.5709993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Papua Barat</name>
+        <description><![CDATA[nid: 32<br>parent_nid: 0<br>serial: 91<br>type: 1<br>latitude: -1.3361154<br>longitude: 133.1747162<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>32.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>91.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-1.3361154</value>
+          </Data>
+          <Data name="longitude">
+            <value>133.1747162</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            133.1747162,-1.3361154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provinsi Papua</name>
+        <description><![CDATA[nid: 33<br>parent_nid: 0<br>serial: 94<br>type: 1<br>latitude: -4.269928<br>longitude: 138.0803529<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>33.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>0.0</value>
+          </Data>
+          <Data name="serial">
+            <value>94.0</value>
+          </Data>
+          <Data name="type">
+            <value>1.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-4.269928</value>
+          </Data>
+          <Data name="longitude">
+            <value>138.0803529</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.0803529,-4.269928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
